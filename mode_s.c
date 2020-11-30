@@ -29,6 +29,8 @@
 //
 
 #include "dump1090.h"
+
+extern struct stModes Modes;
 //
 // ===================== Mode S detection and decoding  ===================
 //
